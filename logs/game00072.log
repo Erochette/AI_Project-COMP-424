@@ -1,0 +1,18 @@
+# Server version 0.08 running on emmanuels-mbp.local:8123
+# Game ID: 72
+# Board class: bohnenspiel.BohnenspielBoard
+# Timeout: 300000
+# First Move Timeout: 30000
+# Date: Fri Mar 31 00:31:00 EDT 2017
+# Player 1: Player-0, 'Human', running on emmanuels-mbp.local
+# Player 2: Player-1, '260587675', running on emmanuels-mbp.local
+START Player-0 Human
+START Player-1 260587675
+PIT 0 0
+PIT 1 0
+PIT 0 1
+PIT 1 0
+PIT 0 0
+PIT 1 1
+PIT 0 2
+PIT 1 0
